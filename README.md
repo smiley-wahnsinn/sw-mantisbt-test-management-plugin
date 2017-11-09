@@ -1,0 +1,1 @@
+# sw-mantisbt-test-management-plugin
